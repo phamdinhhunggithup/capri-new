@@ -1,0 +1,64 @@
+/* wrap-mainContent*/
+
+.wrap-mainContent {
+    margin-top: 150px;
+    padding: 30px 0;
+}
+
+.blog-detail-content-wrap .blog-detail-title {
+    text-align: center;
+}
+
+.blog-detail-content-wrap .blog-detail-title .category {
+    color: #08528b;
+    font-size: .9rem;
+    letter-spacing: 1px;
+}
+
+.blog-detail-content-wrap .blog-detail-title .blog-title {
+    font-family: "Montserrat-Bold";
+    font-size: 2.5rem;
+    padding: 20px 0;
+}
+
+.blog-detail-content-wrap .blog-detail-title .info {
+    font-size: .8rem;
+    letter-spacing: 1px;
+    padding: 10px 0;
+}
+
+.blog-detail-content-wrap .blog-detail-title .info .time {
+    color: #867d7d;
+    padding: 0 5px;
+}
+
+.blog-detail-content-wrap .blog-detail-title .info .cmt {
+    font-weight: bold;
+    padding: 0 5px;
+}
+
+.cate-relative li a {
+    color: #333333;
+    font-size: .9rem;
+    padding: 5px 10px;
+    border: 1px solid #797676;
+    margin: 5px;
+}
+
+.action li a {
+    color: #333333;
+    padding: 5px 10px;
+    border-radius: 40px;
+    border: 1px solid #797676;
+    margin: 0 5px;
+}
+
+.sidebar .box-social-share ul li a {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #e1e1e1;
+    text-align: center;
+    line-height: 50px;
+    font-size: 1.5rem;
+    color: #135cb6;
+}
